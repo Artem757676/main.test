@@ -1,0 +1,20 @@
+# str1 = "string"
+# numb1= 242
+# flor = 2.4
+# array= [ 2,3,5,52.5]
+# non2= None
+# print(type(str1))
+# print(type(numb1))
+# print(type(flor))
+# print(type(array))
+# print(type(non2))
+list1 = "Hello world A Sports it's in a game"
+# print(list1 * 10 + "\n")
+str3=False
+str2= 'b'
+# print(list1 * 10 + "\t")
+# print(str2 + str3)
+print(len(str2),len(str3))
+for i in list1:
+    if str2:
+        print(i)
